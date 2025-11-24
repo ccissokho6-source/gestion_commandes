@@ -9,6 +9,7 @@
         <!-- Vos entités -->
 
 
+        <class>sn.edu.isepat.tic.dfe.p6.entities.Utilisateur</class>
 
         <properties>
             <!-- JDBC -->
